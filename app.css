@@ -7,7 +7,7 @@
 }
 
 body {
-    font-family: 'Roboto', sans-serif;    
+    font-family: 'Roboto', sans-serif;
 }
 
 :root {
@@ -20,7 +20,7 @@ body {
     height: 270mm;
     max-height: 270mm;
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: var(--label-height) var(--label-height) var(--label-height) var(--label-height) var(--label-height) var(--label-height) var(--label-height);
     margin: auto;
     grid-row-gap: 2.5mm;
